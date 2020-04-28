@@ -26,6 +26,7 @@ const createRoomFileSync = () => {
   };
 
   const niceNames = [
+    "Daily",
     "Tech",
     "Medical",
     "Mr. Robot",

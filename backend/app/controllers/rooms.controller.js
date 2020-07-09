@@ -28,7 +28,7 @@ const createRoomFileSync = () => {
   roomsData[1] = {
     id: uuid(),
     name: "Daily",
-    externalMeetUrl: "meet.google.com/mnd-bxsk-yuo",
+    externalMeetUrl: "https://meet.google.com/mnd-bxsk-yuo",
   };
   
   const niceNames = [

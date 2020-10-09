@@ -41,6 +41,7 @@ const createRoomFileSync = () => {
     "Heineken",
     "Stella Artois",
     "Johnnie Walker",
+    "Among Us",
   ];
 
   for (const niceName of niceNames) {
